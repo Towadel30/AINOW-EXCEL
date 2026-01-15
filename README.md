@@ -22,8 +22,10 @@ The dashboard was built using **Pivot Tables, Pivot Charts, slicers, and Excel f
 * **Best-Selling Product:** TV 43"
 
 These KPIs give a quick snapshot of overall business performance.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4638d987-af48-4882-8438-d413b3c15f60" />
 
+
+
+<img width="1144" height="1123" alt="image" src="https://github.com/user-attachments/assets/9c07cdba-c372-4dcb-b169-0946b97d15ef" />
 
 
 
