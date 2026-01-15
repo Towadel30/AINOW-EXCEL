@@ -25,7 +25,8 @@ These KPIs give a quick snapshot of overall business performance.
 
 
 
-<img width="1144" height="1123" alt="image" src="https://github.com/user-attachments/assets/9c07cdba-c372-4dcb-b169-0946b97d15ef" />
+![Uploading Picture1.png…]()
+
 
 
 
